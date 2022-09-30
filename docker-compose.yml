@@ -1,0 +1,8 @@
+version: '3.7'
+
+services: 
+  report:
+    container_name: report
+    build: .
+    ports:
+      - 8071:80

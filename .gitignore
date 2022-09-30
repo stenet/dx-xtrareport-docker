@@ -1,0 +1,8 @@
+.cr
+.idea
+.vs
+*.csproj.user
+*.DotSettings.user
+**/bin
+**/obj
+NuGet.config
